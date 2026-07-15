@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi 👋 I'm Vikas L
 
-<!--
-**vickyvikas-L/vickyvikas-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Currently learning Python Full Stack
+- 💻 Skills: Python, HTML, CSS, JavaScript, SQL
+- 📚 Information Science Engineering Student
+- 📫 Email: your-email@example.com
 
-Here are some ideas to get you started:
+## 🚀 Languages & Tools
+- Python
+- HTML
+- CSS
+- JavaScript
+- MySQL
+- Git
+- GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vickyvikas-L=true)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=vickyvikas-L)
+
+## 🌐 Connect with me
+- LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/vikas-l-6205a9312)
