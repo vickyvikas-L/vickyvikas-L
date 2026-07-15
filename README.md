@@ -1,8 +1,6 @@
 ## Hi 👋 I'm Vikas L
 
 
-Hi, I'm **Vikas**!
-
 🎓 Information Science Engineering student passionate about technology and innovation.
 
 💡 I enjoy turning ideas into real-world applications through code and continuously exploring new technologies.
@@ -75,9 +73,6 @@ CGPA:7.8/10 (2022-2026)**
 
 ⭐ “Code. Learn. Build. Repeat.”
 
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vickyvikas-L=true)
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=vickyvikas-L)
