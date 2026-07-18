@@ -1,105 +1,97 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=220&section=header&text=Hi%20👋%20I'm%20Vikas%20L&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=200&section=header&text=Hi%20👋%20I'm%20Vikas%20L&fontSize=45&fontColor=blue"/>
 </p>
 
-<h1 align="center">Python Full Stack Developer 💻</h1>
 
-<p align="center">
-Turning ideas into scalable, user-friendly web applications.
-</p>
+## Hi 👋 I'm Vikas L
 
----
 
-## 👨‍💻 About Me
+🎓 Information Science Engineering student passionate about technology and innovation.
 
-🎓 Information Science Engineering Student
+💡 I enjoy turning ideas into real-world applications through code and continuously exploring new technologies.
 
-💻 Aspiring Python Full Stack Developer
+🌱 Currently learning **Python Full Stack Development** and building projects to strengthen my development skills.
 
-🌱 Currently learning Python, Django, HTML, CSS, JavaScript, SQL, Git & GitHub
-
-🚀 Passionate about building real-world web applications and continuously improving my skills.
-
-📍 Bengaluru, India
+🚀 My goal is to create efficient, user-friendly, and impactful software solutions while growing as a developer every day.
 
 ---
 
-## 🎓 Education
+# 🎓 Education
+**Vivekananda Institute of Technology
+Bachelor of Engineering (B.E.) – Information Science Engineering  Vivekananda Institute of Technology
+CGPA:7.8/10 (2022-2026)**
 
-**Vivekananda Institute of Technology**
+📚 Focus Areas:
 
-**Bachelor of Engineering (Information Science & Engineering)**
-
-📅 2022 – 2026
-
-📊 CGPA: **7.8/10**
+* Software Development
+* Database Management Systems
+* Web Technologies
+* Data Structures & Algorithms
+* Object-Oriented Programming
 
 ---
 
-## 💻 Skills
+# 💻 Skills
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,html,css,javascript,mysql,django,git,github,vscode"/>
 </p>
 
 ---
+### Programming Languages
 
-## 🚀 Current Focus
+* Python
+* JavaScript
+* SQL
+---
+### Frontend Development
 
-- 🌐 Building Full Stack Web Applications
-- 🐍 Improving Python Programming
-- 📚 Learning Django Framework
-- 💡 Solving DSA Problems
-- 🤝 Contributing to Open Source
+* HTML5
+* CSS3
+* Responsive Web Design
+---
+### Tools & Technologies
+
+* Git & GitHub
+* MySQL
+* VS Code
+---
+### Soft Skills
+
+* Problem Solving
+* Team Collaboration
+* Continuous Learning
+* Creative Thinking
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Current Focus
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vikasvicky-L&show_icons=true&theme=tokyonight"/>
-</p>
+✨ Building Full Stack Web Applications
 
----
+✨ Improving Python Programming Skills
 
-## 🔥 GitHub Streak
+✨ Learning Modern Web Development Technologies
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=vikasvicky-L&theme=tokyonight"/>
-</p>
+✨ Contributing to Open Source Projects
 
 ---
 
-## 📈 Most Used Languages
-
+# 📫 Connect With Me
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasvicky-L&layout=compact&theme=tokyonight"/>
-</p>
+  <a href="mailto:vikasvickyl232004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
----
+  <a href="https://linkedin.com/in/vikas-l-6205a9312">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-## 📫 Connect With Me
-
-<p align="center">
-<a href="mailto:vikasvickyl232004@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/vikas-l-6205a9312">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/vikasvicky-L">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=vikasvicky-L&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <a href="https://github.com/vikasvicky-L">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=120&section=footer"/>
 </p>
