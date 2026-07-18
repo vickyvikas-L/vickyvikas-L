@@ -74,8 +74,6 @@ CGPA:7.8/10 (2022-2026)**
 ⭐ “Code. Learn. Build. Repeat.”
 
 
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=vickyvikas-L)
 
 ## 🌐 Connect with me
 - LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/vikas-l-6205a9312)
