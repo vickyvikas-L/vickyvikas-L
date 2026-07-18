@@ -73,7 +73,7 @@ CGPA:7.8/10 (2022-2026)**
 ---
 
 # 📫 Connect With Me
-p align="center">
+<p align="center">
   <a href="mailto:vikasvickyl232004@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
