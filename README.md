@@ -73,7 +73,7 @@ CGPA:7.8/10 (2022-2026)**
 
 ✨ Learning Modern Web Development Technologies
 
-✨ Contributing to Open Source Projects
+✨ Contributing to Open Source Project
 
 ---
 
