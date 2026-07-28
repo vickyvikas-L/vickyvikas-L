@@ -42,7 +42,7 @@ CGPA:7.8/10 (2022-2026)**
 
 * Python
 * JavaScript
-* SQL
+* SQL/Oracle
 ---
 ### Frontend Development
 
