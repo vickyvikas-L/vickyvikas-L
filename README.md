@@ -38,7 +38,7 @@ CGPA:7.8/10 (2022-2026)**
 </p>
 
 ---
-### Programming Langua
+### Programming Languages
 
 * Python
 * JavaScript
