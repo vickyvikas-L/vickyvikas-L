@@ -55,6 +55,7 @@ CGPA:7.8/10 (2022-2026)**
 * Git & GitHub
 * MySQL
 * VS Code
+* git
 ---
 ### Soft Skills
 
