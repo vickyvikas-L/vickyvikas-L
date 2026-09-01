@@ -55,7 +55,6 @@ CGPA:7.8/10 (2022-2026)**
 * Git & GitHub
 * MySQL
 * VS Code
-* git
 ---
 ### Soft Skills
 
@@ -74,7 +73,7 @@ CGPA:7.8/10 (2022-2026)**
 
 ✨ Learning Modern Web Development Technologies
 
-✨ Contributing to Open Source Project
+✨ Contributing to Open Source Projects
 
 ---
 
