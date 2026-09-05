@@ -3,7 +3,7 @@
 </p>
 
 
-## Hi 👋 I'm VikasL
+## Hi 👋 I'm Vikas
 
 
 🎓 Information Science Engineering student passionate about technology and innovation.
