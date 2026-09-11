@@ -76,8 +76,28 @@ CGPA:7.8/10 (2022-2026)**
 ✨ Contributing to Open Source Projects
 
 ---
-📊 GITHUB ANALYTICS
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vickyvikas-L&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyvikas-L&layout=compact&theme=tokyonight&hide_border=true" width="42%"/> </p>
+# 📊 GITHUB ANALYTICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vickyvikas-L&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyvikas-L&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
+</p>
+
+<br>
+
+# 🔥 CONTRIBUTION STREAK
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vickyvikas-L&theme=tokyonight&hide_border=true" width="70%" />
+</p>
+
+<br>
+
+# 📈 GITHUB ACTIVITY
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vickyvikas-L&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
 ---
 # 📫 Connect With Me
 <p align="center">
