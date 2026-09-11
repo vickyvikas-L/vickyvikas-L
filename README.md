@@ -76,7 +76,9 @@ CGPA:7.8/10 (2022-2026)**
 ✨ Contributing to Open Source Projects
 
 ---
-
+🐍 CONTRIBUTION SNAKE
+<p align="center"> <img src="https://raw.githubusercontent.com/vickyvikas-L/vickyvikas-L/output/github-contribution-grid-snake.svg" width="100%"/> </p>
+---
 # 📫 Connect With Me
 <p align="center">
   <a href="mailto:vikasvickyl232004@gmail.com">
