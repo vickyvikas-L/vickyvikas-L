@@ -76,8 +76,8 @@ CGPA:7.8/10 (2022-2026)**
 ✨ Contributing to Open Source Projects
 
 ---
-📈 GITHUB ACTIVITY
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vickyvikas-L&bg_color=0D1117&color=00F5FF&line=0066FF&point=FFFFFF&area=true&hide_border=true" width="100%"/> </p>
+📊 GITHUB ANALYTICS
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vickyvikas-L&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyvikas-L&layout=compact&theme=tokyonight&hide_border=true" width="42%"/> </p>
 ---
 # 📫 Connect With Me
 <p align="center">
