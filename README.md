@@ -76,6 +76,11 @@ CGPA:7.8/10 (2022-2026)**
 ✨ Contributing to Open Source Projects
 
 ---
+## 🚀 Featured Projects
+
+| **🌐 Project** | **⚙️ Tech** | **📖 Description** |
+|---|---|---|
+| [**Flix-Flow Service Management**](https://github.com/vickyvikas-L/Flix-Flow-service-Management) | Python | Service management system developed using Python |
 # 🔥 CONTRIBUTION STREAK
 
 <p align="center">
